@@ -133,7 +133,7 @@ final List<Onboard> data = [
       title: 'title2'.tr,
       description: 'subtitle2'.tr),
   Onboard(
-      image: 'assets/images/Godspeed.png',
+      image: 'assets/images/Goodspeed.png',
       title: 'title3'.tr,
       description: 'subtitle3'.tr),
 ];
